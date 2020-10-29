@@ -138,7 +138,10 @@ const fi = (function () {
   };
 })();
 
+<<<<<<< HEAD
 fi.libraryMethod();
 
+=======
+>>>>>>> a0a102ea97f9cca03dc428fd03b85e1147280ce2
 
    
